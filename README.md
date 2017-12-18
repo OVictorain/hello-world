@@ -12,3 +12,5 @@ I write this in my Browser, to see whether can it sync in my local Repo.
 Can I still fetch&merge it?
 
 asdfdsafdsa
+
+Test change local 'user.name', which is inconsist with my github username.
